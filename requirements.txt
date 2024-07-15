@@ -1,6 +1,7 @@
 numpy
 keras
 flask
+gunicorn
 pillow
 flasgger
 flask_cors
